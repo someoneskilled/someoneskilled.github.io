@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-fira-code: "Fira Code";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --background: #242424;
+  --gray: #bbb;
+  --white: #fff;
+  --primary: #00dfff;
+
+  /* Gaps */
+  --gap-13xl: 32px;
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
+  --gap-base: 16px;
+  --gap-8xs: 5px;
+  --gap-29xl: 48px;
+  --gap-5xl: 24px;
+  --gap-3xs: 10px;
+  --gap-2xs: 11px;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+  --padding-5xs: 8px;
+  --padding-base: 16px;
+  --padding-9xs: 4px;
+}
